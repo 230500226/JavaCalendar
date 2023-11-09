@@ -11,7 +11,7 @@ import java.awt.Color;
 /**
  *
  * @author sniffel
- * NOTE A bug where the first button press will snap back to Jan unfortunatley no time to fix 
+ * 
  */
 public class MainFrame extends javax.swing.JFrame {
         // Month will be changed by the user to select the calendar configuration for that month
